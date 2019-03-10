@@ -1,0 +1,107 @@
+.App {
+    text-align: center;
+  }
+
+.landing
+{
+    width: 1300;
+    height: 1200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('./images/tlo3.jpg');
+    
+}
+
+.landingLogReg
+{
+    width: 1300;
+    height: 754px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('./images/tlo3.jpg');
+    
+}
+
+
+
+.input{
+  height: 35%;
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.marginB{
+  margin-bottom: 5%;
+}
+
+.positionLogin{
+  position: relative;
+  top: 18%;
+}
+
+.positionRegister{
+  position: relative;
+  top: 10%;
+}
+
+.widthButton{
+  width: 80px
+}
+
+.dashboard{
+  margin-left: auto;
+  margin-right: auto;
+ 
+}
+
+.display{
+  border-radius: 50px;
+  width: 240px;
+	height: 190px;
+	background-color: lightblue;
+  color: white;
+  font-size: 20px;
+  margin: 18px;
+  margin-top: 50px;
+}
+
+.display img{
+  margin-top: 20px;
+	width: 120px;
+	height: 120px;
+}
+
+.displayChart{
+ 
+  border-radius: 50px;
+  width: 1520px;
+	height: 350px;
+	background-color: lightblue;
+  color: white;
+  font-size: 20px;
+  margin-top: 50px;
+}
+
+.toggle{
+  width: 1rem;
+  margin-left: 2rem
+}
+
+.toggles{
+  display: flex;
+  margin-left: 520px;
+margin-top: 10px
+}
+
+.flex{
+  display: flex
+}
+
+.color{
+  color: #174581;
+  margin-left: 390px;
+}
